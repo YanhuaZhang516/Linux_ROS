@@ -1,4 +1,6 @@
-# hello-world
-just another respository
+# Optitrack 
 
-there are comments!
+1. some basic Ubuntu commands:
+
+## .bashrc
+
