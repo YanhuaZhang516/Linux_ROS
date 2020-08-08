@@ -13,6 +13,7 @@ ls -a
 gedit .bashrc
 ```
 3. how to edit PATH?
+
 PATH变量决定了shell将在哪些目录中寻找命令或程序。如果要执行的命令的目录在$PATH中，就不必输入这个命令的完整路径，直接输入命令就可以了。
 三种方法修改环境变量：
 - 直接用export命令
