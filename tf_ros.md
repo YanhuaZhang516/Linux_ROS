@@ -31,3 +31,6 @@ how to use the `waitForTransform` function to wait for a transform to be availab
 
 ### 5. Time travel with tf
 
+## 3. Debugging tf
+## 4. Using sensor messages with tf
+## 5. Setting up your robot with tf
